@@ -35,3 +35,5 @@ python test_yolo_split.py --opt options/test/{YOUR_OPTION_FILE}.yml
 The implementation of architecture search is borrowed from [DARTS](https://github.com/quark0/darts).
 
 The images are annotated by [labelme](https://github.com/wkentaro/labelme).
+
+https://pan.baidu.com/s/1QYOb1u7dvXQLq6z9NV-a0g
